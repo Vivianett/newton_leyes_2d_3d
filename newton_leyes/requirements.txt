@@ -1,0 +1,3 @@
+customtkinter>=5.2.2
+autobahn>=24.11.0
+ursina>=7.0.0
