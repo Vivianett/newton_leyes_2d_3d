@@ -45,6 +45,6 @@ Jhonatan David Riascos Mosquera
 Vivian Natalia Montaño Olaya
 
 ## Nota
-Para la vista 3D es necesario tener Blender 4.5 instalado en el sistema.
+Para la vista 3D es necesario tener Blenderinstalado en el sistema.
 
   
